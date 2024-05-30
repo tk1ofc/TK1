@@ -1,16 +1,16 @@
 > 🚀🌸 Versión Actual: 1.0.7
 
-## Yoshiko Bot - MD 🌸☄️
+## TK1 Bot - MD 🌸☄️
 
 <p align="center">
-<img src= "https://telegra.ph/file/54333f6030faadc899c8a.jpg" alt="Yoshiko" width="900"/>
+<img src= "https://telegra.ph/file/54333f6030faadc899c8a.jpg" alt="TK1" width="900"/>
 </p>
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
 
 > Si Deseas Probar La Bot Antes De Instalarlo, Click Abajo.🟢
 
-<a href="https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-Yoshiko-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/BOUHXTBYYgxG3BLNB11xpM"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-Yoshiko-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 - ### ⚙️ Configuracion
