@@ -114,8 +114,8 @@ Para que no pierda su progreso en TK1, estos comandos realizarán un respaldo de
 </a>
 
 ### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/tk1ofc.png?size=60)](https://github.com/tk1ofc) 
+[![tk1ofc](https://github.com/tk1ofc.png?size=60)](https://github.com/tk1ofc) 
 
 ### 🌟 CREADOR
-[![Diego-YL-177](https://github.com/tk1ofc.png?size=100)](https://github.com/tk1ofc) 
-> Copyright (c) 2024 **[Diego-YL-177](https://github.com/tk1ofc/TK1/blob/master/LICENSE)**.
+[![tk1ofc](https://github.com/tk1ofc.png?size=100)](https://github.com/tk1ofc) 
+> Copyright (c) 2024 **[tk1ofc](https://github.com/tk1ofc/TK1/blob/master/LICENSE)**.
