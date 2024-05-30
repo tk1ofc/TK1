@@ -10,7 +10,7 @@
 
 > Si Deseas Probar La Bot Antes De Instalarlo, Click Abajo.🟢
 
-<a href="https://chat.whatsapp.com/BOUHXTBYYgxG3BLNB11xpM"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-Yoshiko-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/BOUHXTBYYgxG3BLNB11xpM"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-TK1-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 - ### ⚙️ Configuracion
